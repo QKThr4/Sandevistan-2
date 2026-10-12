@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "C",
+    "S",
+    "C"
+  ],
+  "key": {
+    "C": { "item": "minecraft:chain" },
+    "S": { "item": "minecraft:slime_ball" }
+  },
+  "result": { "id": "sandevistan:espinha", "count": 1 }
+}
